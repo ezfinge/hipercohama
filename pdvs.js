@@ -1,6 +1,6 @@
 let pdvsJson = [ 
     {
-        name: 'PDV 1 600',
+        name: 'PDV 1',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.124:9898/normal.html'
@@ -276,19 +276,19 @@ let pdvsJson = [
         name: 'PDV 06',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.29:9898/normal.html'
+        link: 'http://192.168.60.76:9898/normal.html'
     },
     {
         name: 'PDV 07',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.48:9898/normal.html'
+        link: 'http://192.168.60.217:9898/normal.html'
     },
     {
         name: 'PDV 08',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.161:9898/normal.html'
+        link: 'http://192.168.60.29:9898/normal.html'
     },
     {
         name: 'PDV 09',
@@ -300,13 +300,13 @@ let pdvsJson = [
         name: 'PDV 10',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.76:9898/normal.html'
+        link: 'http://192.168.60.161:9898/normal.html'
     },
     {
         name: 'PDV 11',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.217:9898/normal.html'
+        link: 'http://192.168.60.132:9898/normal.html'
     },
     {
         name: 'PDV - app',
