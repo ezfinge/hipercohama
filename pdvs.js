@@ -276,25 +276,25 @@ let pdvsJson = [
         name: 'PDV 06',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.76:9898/normal.html'
+        link: 'http://192.168.60.29:9898/normal.html'
     },
     {
         name: 'PDV 07',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.217:9898/normal.html'
+        link: 'http://192.168.60.48:9898/normal.html'
     },
     {
         name: 'PDV 08',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.29:9898/normal.html'
+        link: 'http://192.168.60.132:9898/normal.html'
     },
     {
         name: 'PDV 09',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.132:9898/normal.html'
+        link: 'http://192.168.60.76:9898/normal.html'
     },
     {
         name: 'PDV 10',
@@ -306,7 +306,7 @@ let pdvsJson = [
         name: 'PDV 11',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.132:9898/normal.html'
+        link: 'http://192.168.60.217:9898/normal.html'
     },
     {
         name: 'PDV - app',
