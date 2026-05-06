@@ -111,37 +111,25 @@ let pdvsJson = [
         name: 'PDV 19',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.119:9898/normal.html'
+        link: 'http://192.168.60.22:9898/normal.html'
     },
     {
         name: 'PDV 20',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.34:9898/normal.html'
+        link: 'http://192.168.60.119:9898/normal.html'
     },
     {
         name: 'PDV 21',
         descripion:'Frente de Loja ',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.179:9898/normal.html'
+        link: 'http://192.168.60.49:9898/normal.html'
     },
     {
         name: 'PDV 22',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.49:9898/normal.html'
-    },
-    {
-        name: 'PDV 23',
-        descripion:'Frente de Loja',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.174:9898/normal.html'
-    },
-    {
-        name: 'PDV 24',
-        descripion:'Frente de Loja',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.60.22:9898/normal.html'
+        link: 'http://192.168.60.161:9898/normal.html'
     },
     {
         name: 'PDV 01',
@@ -282,7 +270,7 @@ let pdvsJson = [
         name: 'PDV 07',
         descripion:'Area Nova',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.60.48:9898/normal.html'
+        link: 'http://192.168.60.217:9898/normal.html'
     },
     {
         name: 'PDV 08',
